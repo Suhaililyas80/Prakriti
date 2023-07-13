@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Prakriti-IIT-Kanpur/static/css/main.23266d3d.css",
-    "main.js": "/Prakriti-IIT-Kanpur/static/js/main.45b21c48.js",
-    "static/media/title1.jpg": "/Prakriti-IIT-Kanpur/static/media/title1.4603835697802bcceb98.jpg",
-    "index.html": "/Prakriti-IIT-Kanpur/index.html",
-    "main.23266d3d.css.map": "/Prakriti-IIT-Kanpur/static/css/main.23266d3d.css.map",
-    "main.45b21c48.js.map": "/Prakriti-IIT-Kanpur/static/js/main.45b21c48.js.map"
+    "main.css": "/static/css/main.ff47eb24.css",
+    "main.js": "/static/js/main.2e018a10.js",
+    "static/media/title1.jpg": "/static/media/title1.4603835697802bcceb98.jpg",
+    "index.html": "/index.html",
+    "main.ff47eb24.css.map": "/static/css/main.ff47eb24.css.map",
+    "main.2e018a10.js.map": "/static/js/main.2e018a10.js.map"
   },
   "entrypoints": [
-    "static/css/main.23266d3d.css",
-    "static/js/main.45b21c48.js"
+    "static/css/main.ff47eb24.css",
+    "static/js/main.2e018a10.js"
   ]
 }
