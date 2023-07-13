@@ -146,15 +146,20 @@ header {
   align-items: center;
 }
 
-.contact{
+.contact {
   margin-bottom: 2rem;
 }
 
-.form-control{
+.search-bar {
+  display: flex;
+  align-items: baseline;
+}
+
+.form-control {
   height: 5rem;
 }
 
-.form_img{
+.form_img {
   border-radius: 2rem;
   box-shadow: 0 0.4rem 0.8rem rgb(0, 0, 0, 0.4);
 }
