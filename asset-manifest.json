@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Prakriti-IIT-Kanpur/static/css/main.23266d3d.css",
+    "main.js": "/Prakriti-IIT-Kanpur/static/js/main.45b21c48.js",
+    "static/media/title1.jpg": "/Prakriti-IIT-Kanpur/static/media/title1.4603835697802bcceb98.jpg",
+    "index.html": "/Prakriti-IIT-Kanpur/index.html",
+    "main.23266d3d.css.map": "/Prakriti-IIT-Kanpur/static/css/main.23266d3d.css.map",
+    "main.45b21c48.js.map": "/Prakriti-IIT-Kanpur/static/js/main.45b21c48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23266d3d.css",
+    "static/js/main.45b21c48.js"
+  ]
+}
