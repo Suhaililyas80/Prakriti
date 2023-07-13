@@ -8,7 +8,7 @@ const Navbar = () => {
         <section className='navbar-bg'>
             <div><nav class="navbar navbar-expand-lg">
                 <div class="container">
-                    <Link class="navbar-brand" to='/'>Prakriti</Link>
+                    <Link class="navbar-brand" to='/'><img src={process.env.PUBLIC_URL + `/images/Prakriti_transparent.png`} width={'40px'} height={'40px'}/> Prakriti</Link>
                     <button
                         class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
                         onClick={() => setShow(!show)}>
