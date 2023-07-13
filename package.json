@@ -1,7 +1,7 @@
 {
   "name": "r_tutorial",
   "version": "0.1.0",
-  "homepage": "https://cprakhar.github.io/Prakriti-IIT-Kanpur",
+  "homepage": "https://cprakhar.github.io/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
